@@ -1,6 +1,7 @@
 flask==0.10.1
 flask-login
-flask-openid
+# flask-openid
+git+git://github.com/mitsuhiko/flask-openid.git
 flask-mail
 sqlalchemy==0.9.8
 flask-sqlalchemy==2.0
